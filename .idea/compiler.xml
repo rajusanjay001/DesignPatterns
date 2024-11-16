@@ -2,9 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="designpattern" target="23" />
-      <module name="designpattern.main" target="23" />
-      <module name="designpattern.test" target="23" />
+      <module name="designpattern" target="22" />
+      <module name="designpattern.main" target="22" />
+      <module name="designpattern.test" target="22" />
     </bytecodeTargetLevel>
   </component>
 </project>
